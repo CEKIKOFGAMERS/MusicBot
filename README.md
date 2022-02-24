@@ -17,7 +17,7 @@ module.exports = {
     app: {
         px: 'XXX',
         token: 'XXX',
-        playing: 'by Zerio ❤️',
+        playing: 'by CEKIKOFGAMERS ❤️',
     },
 
     opt: {
@@ -59,7 +59,7 @@ To use the project correctly you will need some tools.
 
 Without forgetting of course the code editor ^^
 
-Realized with ❤️ by [ZerioDev](https://github.com/ZerioDev).
+Realized with ❤️ by [ZerioDev](https://github.com/CEKIKOFGAMERS).
 
 Please do not withdraw the license and keep the credits on this project.
 
