@@ -13,7 +13,7 @@ module.exports = {
                 embed: {
                     color: 'ORANGE',
                     author: { name: 'Help pannel' },
-                    footer: { text: 'This bot uses a Github project made by Zerio (ZerioDev/Music-bot)' },
+                    footer: { text: 'Ngga tau saya mau nulis apa By <@889156133464469504>' },
                     fields: [
                         { name: 'Bot', value: infos },
                         { name: 'Music', value: music },
@@ -32,7 +32,7 @@ module.exports = {
                 embed: {
                     color: 'ORANGE',
                     author: { name: 'Help pannel' },
-                    footer: { text: 'This bot uses a Github project made by Zerio (ZerioDev/Music-bot)' },
+                    footer: { text: 'Ngga tau saya mau nulis apa By <@889156133464469504>' },
                     fields: [
                         { name: 'Name', value: command.name, inline: true },
                         { name: 'Category', value: command.category, inline: true },
